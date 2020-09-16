@@ -2,7 +2,9 @@
 
 Set the parameters in fort.23, which is the input file.
 
-do ./myscript.sh
+set the total number of trajectories that you want to run and number of trajectories per core in parallel_script_v4.py
+
+./myscript.sh to run the jobs
 
 let the jobs finish
 
